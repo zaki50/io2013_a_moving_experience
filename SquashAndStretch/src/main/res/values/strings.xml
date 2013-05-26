@@ -3,9 +3,9 @@
 
     <string name="app_name" >SquashAndStretch
     </string>
-    <string name="action_settings" >Settings
+    <string name="action_slow" >Slow
     </string>
-    <string name="hello_world" >Hello world!
+    <string name="click_me" >Click Me!
     </string>
 
 </resources>

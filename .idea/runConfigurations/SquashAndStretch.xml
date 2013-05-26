@@ -13,6 +13,8 @@
     <option name="NETWORK_SPEED" value="full" />
     <option name="NETWORK_LATENCY" value="none" />
     <option name="CLEAR_LOGCAT" value="false" />
+    <RunnerSettings RunnerId="AndroidDebugRunner" />
+    <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
     <method />
   </configuration>
 </component>
