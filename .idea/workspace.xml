@@ -14,29 +14,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SquashAndStretch/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch.iml" afterPath="$PROJECT_DIR$/SquashAndStretch.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/src/main/java/com/example/squashandstretch/SquashAndStretch.java" afterPath="$PROJECT_DIR$/SquashAndStretch/src/main/java/com/example/squashandstretch/SquashAndStretch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/SquashAndStretch.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/SquashAndStretch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/src/main/res/layout/activity_squashandstretch.xml" afterPath="$PROJECT_DIR$/SquashAndStretch/src/main/res/layout/activity_squashandstretch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/BackgroundContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/Cheeses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/ListViewRemovalAnimation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/StableArrayAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/opaque_text_view.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/activity_listviewremovalanimation.xml" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/activity_list_view_deletion.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/ListViewRemovalAnimation.java" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/ListViewRemovalAnimation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle" afterPath="$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/build.gradle" afterPath="$PROJECT_DIR$/SquashAndStretch/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/SquashAndStretch/src/main/res/values/dimens.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/src/main/res/menu/squash_and_stretch.xml" afterPath="$PROJECT_DIR$/SquashAndStretch/src/main/res/menu/squash_and_stretch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SquashAndStretch/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/SquashAndStretch/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anticipation/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/Anticipation/build/res/all/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Anticipation.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/strings.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369525983225" ignored="false" />
-    <file path="/Dummy.txt" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369526930612" ignored="false" />
+    <file path="/Dummy.txt" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369644953421" ignored="false" />
     <file path="/activity_squashandstretch.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369526598862" ignored="false" />
     <file path="/SquashAndStretch.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369528400429" ignored="false" />
     <file path="/squash_and_stretch.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369525992011" ignored="false" />
-    <file path="/a.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369526546275" ignored="false" />
-    <file path="/fragment.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369527969652" ignored="false" />
+    <file path="/a.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369615008885" ignored="false" />
+    <file path="/fragment.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369634449253" ignored="false" />
+    <file path="/ListViewRemovalAnimation.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369635930902" ignored="false" />
+    <file path="/StableArrayAdapter.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369592670217" ignored="false" />
+    <file path="/Cheeses.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369591320387" ignored="false" />
+    <file path="/BackgroundContainer.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369598589802" ignored="false" />
+    <file path="/activity_list_view_deletion.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369634928723" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369636111009" ignored="false" />
+    <file path="/opaque_text_view.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369598560141" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +57,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -87,7 +94,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -97,21 +104,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SquashAndStretch.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/java/com/example/squashandstretch/SquashAndStretch.java">
+      <file leaf-file-name="ListViewRemovalAnimation.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/ListViewRemovalAnimation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="51" selection-start="788" selection-end="788" vertical-scroll-proportion="0.21246459">
+            <state line="53" column="17" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.21401985">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#334#340#0" expanded="true" />
+                <element signature="e#531#546#0" expanded="true" />
+                <element signature="e#1041#1049#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="1" column="18" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StableArrayAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/StableArrayAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BackgroundContainer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/BackgroundContainer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="62" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cheeses.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/Cheeses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,9 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Anticipation/build.gradle" />
-        <option value="$PROJECT_DIR$/Anticipation/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle" />
         <option value="$PROJECT_DIR$/ActivityAnimations/build.gradle" />
         <option value="$PROJECT_DIR$/SquashAndStretch/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/SquashAndStretch/src/main/res/menu/squash_and_stretch.xml" />
@@ -155,13 +189,21 @@
         <option value="$PROJECT_DIR$/SquashAndStretch/src/main/res/layout/activity_squashandstretch.xml" />
         <option value="$PROJECT_DIR$/SquashAndStretch/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/SquashAndStretch/src/main/java/com/example/squashandstretch/SquashAndStretch.java" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/Cheeses.java" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/StableArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/opaque_text_view.xml" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/BackgroundContainer.java" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/activity_list_view_deletion.xml" />
+        <option value="$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/ListViewRemovalAnimation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1379" />
-    <option name="y" value="31" />
-    <option name="width" value="1489" />
+    <option name="x" value="1269" />
+    <option name="y" value="22" />
+    <option name="width" value="1606" />
     <option name="height" value="1760" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -212,8 +254,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,7 +284,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
+              <option name="myItemId" value="ListViewRemovalAnimation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,7 +298,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
+              <option name="myItemId" value="ListViewRemovalAnimation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -278,123 +320,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SquashAndStretch" />
+              <option name="myItemId" value="ListViewRemovalAnimation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -410,7 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="squashandstretch" />
+              <option name="myItemId" value="listviewremovalanimation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,29 +350,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="ActivityAnimations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -457,25 +361,25 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.sourceCode.XML" />
+    <property name="options.lastSelected" value="reference.settingsdialog.project.gradle" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="01498B1A0B01E012" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0A3C23C50900D00F" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="API17" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Android Application.SquashAndStretch">
+  <component name="RunManager" selected="Android Application.ListViewRemovalAnimation">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -565,9 +469,10 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Android Application.Anticipation" />
       <item index="1" class="java.lang.String" itemvalue="Android Application.SquashAndStretch" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.ListViewRemovalAnimation" />
     </list>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -607,41 +512,44 @@
       <created>1369522121413</created>
       <updated>1369522121413</updated>
       <workItem from="1369522130698" duration="4680000" />
-      <workItem from="1369526929043" duration="1730000" />
+      <workItem from="1369526929043" duration="2149000" />
+      <workItem from="1369590691541" duration="14033000" />
+      <workItem from="1369634084006" duration="6487000" />
+      <workItem from="1369644951340" duration="2504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6410000" />
+    <option name="totallyTimeSpent" value="29853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1379" y="31" width="1489" height="1760" extended-state="0" />
+    <frame x="1269" y="22" width="1606" height="1760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917532" sideWeight="0.67012197" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39939025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4871795" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995128" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.225" sideWeight="0.6713415" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32825822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2346838" sideWeight="0.67012197" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977968" sideWeight="0.67012197" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977968" sideWeight="0.67012197" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2346838" sideWeight="0.67012197" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917532" sideWeight="0.67012197" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3995128" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -705,85 +613,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="97" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanimations/ActivityAnimations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="144" selection-end="144" vertical-scroll-proportion="0.05602241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ActivityAnimations/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="55" selection-start="167" selection-end="167" vertical-scroll-proportion="0.070028014">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SquashAndStretch/build/source/r/debug/com/example/squashandstretch/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="674" selection-end="674" vertical-scroll-proportion="0.22408964">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="36" selection-start="148" selection-end="148" vertical-scroll-proportion="0.07170172">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/res/menu/squash_and_stretch.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="38" selection-start="104" selection-end="104" vertical-scroll-proportion="0.014340344">
-          <folding>
-            <element signature="e#128#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SquashAndStretch/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="24" selection-start="378" selection-end="378" vertical-scroll-proportion="0.26610646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/view/animation/AccelerateInterpolator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="82" selection-start="222" selection-end="234" vertical-scroll-proportion="0.046845723">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
@@ -793,16 +622,12 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/view/animation/DecelerateInterpolator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="248" selection-end="248" vertical-scroll-proportion="0.08498584">
-          <folding />
-        </state>
+        <state line="7" column="11" selection-start="248" selection-end="248" vertical-scroll-proportion="0.08498584" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="84" selection-end="84" vertical-scroll-proportion="0.027985075">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="84" selection-end="84" vertical-scroll-proportion="0.027985075" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/res/layout/activity_squashandstretch.xml">
@@ -810,16 +635,90 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.07177033">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="287" selection-end="287" vertical-scroll-proportion="0.07177033" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="317" column="16" selection-start="16099" selection-end="16099" vertical-scroll-proportion="0.33291692" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SquashAndStretch/src/main/java/com/example/squashandstretch/SquashAndStretch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="51" selection-start="788" selection-end="788" vertical-scroll-proportion="0.21246459">
+        <state line="34" column="21" selection-start="1072" selection-end="1072" vertical-scroll-proportion="0.5334728" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/opaque_text_view.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="39" selection-start="627" selection-end="627" vertical-scroll-proportion="0.16129032" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/view/ViewTreeObserver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="28" selection-start="2458" selection-end="2458" vertical-scroll-proportion="0.6663136" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="336" selection-end="336" vertical-scroll-proportion="0.15377447">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/res/layout/activity_list_view_deletion.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.17208412">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.013979496" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/BackgroundContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="62" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/Cheeses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/StableArrayAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewRemovalAnimation/src/main/java/com/example/android/listviewremovalanimation/ListViewRemovalAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="17" selection-start="1918" selection-end="1918" vertical-scroll-proportion="0.21401985">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#334#340#0" expanded="true" />
+            <element signature="e#531#546#0" expanded="true" />
+            <element signature="e#1041#1049#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -839,9 +738,20 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Android-Gradle (SquashAndStretch)|Android-Gradle</last-edited>
+          <last-edited>Android-Gradle (io2013_a_moving_experience)|Android-Gradle</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -901,6 +811,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
