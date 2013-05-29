@@ -162,6 +162,8 @@ public class ListViewRemovalAnimation extends Activity {
                 observer.removeOnPreDrawListener(this);
                 boolean firstAnimation = true;
                 for (int i = 0; i < listview.getChildCount(); ++i) {
+                    // memo: why I can see ignoreView here?
+
                     final View child = listview.getChildAt(i);
                     Integer startTop = mTopMap.get(child);
                     if (startTop != null) {
@@ -207,7 +209,7 @@ public class ListViewRemovalAnimation extends Activity {
                             child.animate().withEndAction(new Runnable() {
                                 @Override
                                 public void run() {
-                                    mBackgroundContainer.hideBackground();;
+                                    mBackgroundContainer.hideBackground();
                                     mSwiping = false;
                                 }
                             });
