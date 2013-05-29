@@ -3,9 +3,7 @@
 
     <string name="app_name" >ActivityAnimations
     </string>
-    <string name="action_settings" >Settings
-    </string>
-    <string name="hello_world" >Hello world!
+    <string name="action_slow" >Slow
     </string>
 
 </resources>
