@@ -1,1 +1,1 @@
-include ':Anticipation', ':ListViewRemovalAnimation', ':ActivityAnimations', ':SquashAndStretch'
+include ':ListViewRemovalAnimation', ':ActivityAnimations', ':SquashAndStretch'

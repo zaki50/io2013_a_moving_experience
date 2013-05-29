@@ -14,20 +14,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/ActivityAnimations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/AnticiButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/BitmapUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/PictureDetailsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/ShadowLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/res/layout/activity_animations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/res/layout/picture_info.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanimations/ActivityAnimations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/res/layout/activity_activityanimations.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/res/menu/activity_animations.xml" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/res/menu/activity_better_window_animations.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/libs/android-support-v4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/AnticiButton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/Anticipation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/layout/activity_anticipation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/menu/anticipation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-sw720dp-land/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-v11/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-v14/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values/styles.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActivityAnimations/build.gradle" afterPath="$PROJECT_DIR$/ActivityAnimations/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Anticipation.iws" />
@@ -44,7 +51,7 @@
     <file path="/Cheeses.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369591320387" ignored="false" />
     <file path="/BackgroundContainer.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369598589802" ignored="false" />
     <file path="/activity_list_view_deletion.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369634928723" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369709940611" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369794223535" ignored="false" />
     <file path="/opaque_text_view.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369598560141" ignored="false" />
     <file path="/ShadowLayout.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369700959706" ignored="false" />
     <file path="/ActivityAnimations.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369708333078" ignored="false" />
@@ -53,7 +60,6 @@
     <file path="/activity_better_window_animations.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369708294480" ignored="false" />
     <file path="/activity_animations.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369708375264" ignored="false" />
     <file path="/picture_info.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369710219343" ignored="false" />
-    <file path="$PROJECT_DIR$/ActivityAnimations/build/source/r/debug/com/example/android/activityanim/R.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369708745596" ignored="false" />
     <file path="/styles.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369710003139" ignored="false" />
     <file path="/AnticiButton.java" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369793709256" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -131,34 +137,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BitmapUtils.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BitmapUtils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/BitmapUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="0.33613446">
+            <state line="26" column="0" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Anticipation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/Anticipation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnticiButton.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/AnticiButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="28" selection-start="3711" selection-end="3711" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1399#1545#0" expanded="true" />
-                <element signature="e#1534#1535#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -175,15 +159,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#426#444#0" expanded="false" />
-                <element signature="e#610#628#0" expanded="false" />
-                <element signature="e#991#1009#0" expanded="false" />
-              </folding>
+            <state line="28" column="56" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.39215687">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -253,10 +233,10 @@
         <option value="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/PictureDetailsActivity.java" />
         <option value="$PROJECT_DIR$/ActivityAnimations/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/ActivityAnimations/src/main/res/layout/picture_info.xml" />
-        <option value="$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/ActivityAnimations/build.gradle" />
         <option value="$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/AnticiButton.java" />
         <option value="$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/BitmapUtils.java" />
+        <option value="$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -344,86 +324,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ListViewRemovalAnimation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ActivityAnimations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -447,182 +347,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActivityAnimations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActivityAnimations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values-v11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActivityAnimations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActivityAnimations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActivityAnimations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anticipation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io2013_a_moving_experience" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ActivityAnimations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activityanim" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -631,7 +355,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="true" />
@@ -792,12 +516,12 @@
       <workItem from="1369526929043" duration="2149000" />
       <workItem from="1369590691541" duration="14033000" />
       <workItem from="1369634084006" duration="6487000" />
-      <workItem from="1369644951340" duration="17977000" />
+      <workItem from="1369644951340" duration="18287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45326000" />
+    <option name="totallyTimeSpent" value="45636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1269" y="22" width="1606" height="1760" extended-state="0" />
@@ -978,27 +702,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#426#444#0" expanded="false" />
-            <element signature="e#610#628#0" expanded="false" />
-            <element signature="e#991#1009#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ActivityAnimations/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="24" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/Anticipation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1010,23 +716,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/AnticiButton.java">
+    <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/BitmapUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="28" selection-start="3711" selection-end="3711" vertical-scroll-proportion="0.0">
+        <state line="26" column="0" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1399#1545#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/java/com/example/android/activityanim/BitmapUtils.java">
+    <entry file="file://$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="623" selection-end="623" vertical-scroll-proportion="0.33613446">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="28" column="56" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.39215687">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,7 +795,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SquashAndStretch</last-edited>
+          <last-edited>io2013_a_moving_experience</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
