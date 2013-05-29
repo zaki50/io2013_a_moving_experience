@@ -13,30 +13,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/libs/android-support-v4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/AnticiButton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/java/com/example/android/anticipation/Anticipation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/layout/activity_anticipation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/menu/anticipation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-sw600dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-sw720dp-land/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-v11/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values-v14/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Anticipation/src/main/res/values/styles.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ActivityAnimations/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" name="Default" comment="" />
     <ignored path="Anticipation.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/strings.xml" changelist="5df428cd-6fdc-4779-98dd-c3ed02d7ad78" time="1369708264154" ignored="false" />
@@ -516,12 +493,12 @@
       <workItem from="1369526929043" duration="2149000" />
       <workItem from="1369590691541" duration="14033000" />
       <workItem from="1369634084006" duration="6487000" />
-      <workItem from="1369644951340" duration="18287000" />
+      <workItem from="1369644951340" duration="18628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45636000" />
+    <option name="totallyTimeSpent" value="45977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1269" y="22" width="1606" height="1760" extended-state="0" />
