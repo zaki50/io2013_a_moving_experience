@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="android-support-v4">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Anticipation/libs/android-support-v4.jar!/" />
       <root url="jar://$PROJECT_DIR$/ActivityAnimations/libs/android-support-v4.jar!/" />
       <root url="jar://$PROJECT_DIR$/ListViewRemovalAnimation/libs/android-support-v4.jar!/" />
       <root url="jar://$PROJECT_DIR$/SquashAndStretch/libs/android-support-v4.jar!/" />
