@@ -7,9 +7,6 @@
         <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/ActivityAnimations/build/source/aidl/debug" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/ActivityAnimations/src/main/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/ActivityAnimations/src/main/res" />
-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/ActivityAnimations/src/main/assets" />
       </configuration>
     </facet>
     <facet type="android-gradle" name="Android-Gradle">
@@ -20,7 +17,8 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/ActivityAnimations/build/classes/debug" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/ActivityAnimations">
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/build/source/r/debug" isTestSource="false" />
@@ -40,13 +38,10 @@
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/debug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/debug/res" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/debug/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/assets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/res" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/res" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/instrumentTest/aidl" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/instrumentTest/assets" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ActivityAnimations/src/instrumentTest/java" isTestSource="true" />

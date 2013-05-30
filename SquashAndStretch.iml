@@ -7,9 +7,6 @@
         <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/SquashAndStretch/build/source/aidl/debug" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/SquashAndStretch/src/main/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/SquashAndStretch/src/main/res" />
-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/SquashAndStretch/src/main/assets" />
       </configuration>
     </facet>
     <facet type="android-gradle" name="Android-Gradle">
@@ -20,7 +17,8 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/SquashAndStretch/build/classes/debug" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/SquashAndStretch">
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/build/source/r/debug" isTestSource="false" />
@@ -40,13 +38,10 @@
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/debug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/debug/res" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/debug/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/aidl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/assets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/assets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/jni" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/rs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/res" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/res" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/instrumentTest/aidl" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/instrumentTest/assets" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/SquashAndStretch/src/instrumentTest/java" isTestSource="true" />
