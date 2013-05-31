@@ -4,8 +4,12 @@ local.properties
 .gradle
 build/
 *.iml
-!.idea/runConfigurations/
-.idea/
+!.idea/runConfigurations/*
+.idea/*.xml
+.idea/.name
+.idea/copyright/
+.idea/libraries/
+.idea/scopes/
 
 # for eclipse
 bin
