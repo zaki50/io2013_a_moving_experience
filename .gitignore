@@ -1,12 +1,11 @@
-.gradle
 local.properties
+
+# for gradle, IDEA
+.gradle
 build/
-workspace.xml
 *.iml
 !.idea/runConfigurations/
 .idea/
-
-
 
 # for eclipse
 bin
