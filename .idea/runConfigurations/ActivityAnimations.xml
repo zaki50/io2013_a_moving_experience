@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Anticipation" type="AndroidRunConfigurationType" factoryName="Android Application">
-    <module name="Anticipation" />
+  <configuration default="false" name="ActivityAnimations" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <module name="ActivityAnimations" />
     <option name="ACTIVITY_CLASS" value="" />
     <option name="MODE" value="default_activity" />
     <option name="DEPLOY" value="true" />
