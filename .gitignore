@@ -2,6 +2,10 @@
 local.properties
 build/
 workspace.xml
+*.iml
+!.idea/runConfigurations/
+.idea/
+
 
 
 # for eclipse
