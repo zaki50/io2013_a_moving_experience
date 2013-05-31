@@ -1,5 +1,11 @@
 .gradle
 local.properties
 build/
-
 workspace.xml
+
+
+# for eclipse
+bin
+gen
+.classpath
+.project
