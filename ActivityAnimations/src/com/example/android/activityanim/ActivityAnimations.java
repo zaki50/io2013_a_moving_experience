@@ -12,7 +12,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.GridLayout;
 import android.widget.ImageView;
-import com.example.android.activityanim.BitmapUtils.PictureData;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -41,7 +40,7 @@ public class ActivityAnimations extends Activity {
         mGridLayout.setUseDefaultMargins(true);
 
         Resources resources = getResources();
-        ArrayList<BitmapUtils.PictureData> pictures = mBitmapUtils.loadPhotos(resources);
+        ArrayList<PictureData> pictures = mBitmapUtils.loadPhotos(resources);
         for (int i  = 0; i < pictures.size(); ++i) {
             PictureData pictureData = pictures.get(i);
             BitmapDrawable thumbnailDrawable = new BitmapDrawable(resources, pictureData.thumbnail);
